@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\zx\\Study\\MediaRecorderDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record.xml",
+        "source": "D:\\zx\\Study\\MediaRecorderDemo\\app\\src\\main\\res\\layout\\activity_record.xml"
+    },
+    {
+        "merged": "D:\\zx\\Study\\MediaRecorderDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video.xml",
+        "source": "D:\\zx\\Study\\MediaRecorderDemo\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "D:\\zx\\Study\\MediaRecorderDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\zx\\Study\\MediaRecorderDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

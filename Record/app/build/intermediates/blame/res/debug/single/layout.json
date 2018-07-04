@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\zx\\Study\\Record\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_bell.xml",
+        "source": "D:\\zx\\Study\\Record\\app\\src\\main\\res\\layout\\item_bell.xml"
+    },
+    {
+        "merged": "D:\\zx\\Study\\Record\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\zx\\Study\\Record\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\zx\\Study\\Record\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_custom_sound.xml",
+        "source": "D:\\zx\\Study\\Record\\app\\src\\main\\res\\layout\\layout_custom_sound.xml"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\zx\\Study\\Record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_sound.png",
+        "source": "D:\\zx\\Study\\Record\\app\\src\\main\\res\\drawable-xhdpi\\bg_sound.png"
+    },
+    {
+        "merged": "D:\\zx\\Study\\Record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\p2.png",
+        "source": "D:\\zx\\Study\\Record\\app\\src\\main\\res\\drawable-xhdpi\\p2.png"
+    },
+    {
+        "merged": "D:\\zx\\Study\\Record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\p6.png",
+        "source": "D:\\zx\\Study\\Record\\app\\src\\main\\res\\drawable-xhdpi\\p6.png"
+    },
+    {
+        "merged": "D:\\zx\\Study\\Record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\p3.png",
+        "source": "D:\\zx\\Study\\Record\\app\\src\\main\\res\\drawable-xhdpi\\p3.png"
+    },
+    {
+        "merged": "D:\\zx\\Study\\Record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\p5.png",
+        "source": "D:\\zx\\Study\\Record\\app\\src\\main\\res\\drawable-xhdpi\\p5.png"
+    },
+    {
+        "merged": "D:\\zx\\Study\\Record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\p4.png",
+        "source": "D:\\zx\\Study\\Record\\app\\src\\main\\res\\drawable-xhdpi\\p4.png"
+    },
+    {
+        "merged": "D:\\zx\\Study\\Record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\p7.png",
+        "source": "D:\\zx\\Study\\Record\\app\\src\\main\\res\\drawable-xhdpi\\p7.png"
+    },
+    {
+        "merged": "D:\\zx\\Study\\Record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_normal.9.png",
+        "source": "D:\\zx\\Study\\Record\\app\\src\\main\\res\\drawable-xhdpi\\btn_normal.9.png"
+    },
+    {
+        "merged": "D:\\zx\\Study\\Record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\zx\\Study\\Record\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\zx\\Study\\Record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record.png",
+        "source": "D:\\zx\\Study\\Record\\app\\src\\main\\res\\drawable-xhdpi\\record.png"
+    },
+    {
+        "merged": "D:\\zx\\Study\\Record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bell_selected.png",
+        "source": "D:\\zx\\Study\\Record\\app\\src\\main\\res\\drawable-xhdpi\\bell_selected.png"
+    },
+    {
+        "merged": "D:\\zx\\Study\\Record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\p1.png",
+        "source": "D:\\zx\\Study\\Record\\app\\src\\main\\res\\drawable-xhdpi\\p1.png"
+    },
+    {
+        "merged": "D:\\zx\\Study\\Record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_pressed.9.png",
+        "source": "D:\\zx\\Study\\Record\\app\\src\\main\\res\\drawable-xhdpi\\btn_pressed.9.png"
+    }
+]
