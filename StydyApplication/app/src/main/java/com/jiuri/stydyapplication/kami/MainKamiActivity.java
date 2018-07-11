@@ -36,9 +36,22 @@ public class MainKamiActivity extends AppCompatActivity implements BaseQuickAdap
 
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);// 设置全屏*/
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_mainkami);
+        setContentView(R.layout.activity_mainkamicontry);
         initView();
         initData();
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     }
 
@@ -60,7 +73,7 @@ public class MainKamiActivity extends AppCompatActivity implements BaseQuickAdap
         HashMap<String, Integer> map = new HashMap<>();
         map.put(RecyclerViewSpacesItemDecoration.LEFT_DECORATION,20);
         map.put(RecyclerViewSpacesItemDecoration.RIGHT_DECORATION,20);
-        map.put(RecyclerViewSpacesItemDecoration.BOTTOM_DECORATION,50);
+        map.put(RecyclerViewSpacesItemDecoration.BOTTOM_DECORATION,55);
         mItemDecoration = new RecyclerViewSpacesItemDecoration(map);
         mRecyclerView.addItemDecoration(mItemDecoration);
         mContoryAdapter.setOnItemClickListener(this);
